@@ -7,4 +7,4 @@ SCREENSHOTS:
 
 ![image](https://user-images.githubusercontent.com/68859484/108227334-76d12700-7146-11eb-8672-1cc56eee2075.png)
 
-![image](https://user-images.githubusercontent.com/68859484/108227416-8badba80-7146-11eb-8bfd-49407b3aedbb.png)
+![image](https://user-images.githubusercontent.com/68859484/108227552-af710080-7146-11eb-89d7-7f7c1b32e423.png)
